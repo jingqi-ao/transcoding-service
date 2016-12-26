@@ -1,0 +1,13 @@
+{
+    "name": "google-speech-api-server",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "express": "4.14.0",
+        "body-parser": "1.15.2 ",
+        "formidable": "1.0.17",
+        "fs-extra": "0.30.0",
+        "find-remove": "0.2.12",
+        "request": "2.74.0"
+    }
+}
