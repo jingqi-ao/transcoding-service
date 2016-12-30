@@ -1,5 +1,5 @@
 {
-    "name": "google-speech-api-server",
+    "name": "transcoding-server",
     "version": "0.0.1",
     "license": "MIT",
     "dependencies": {

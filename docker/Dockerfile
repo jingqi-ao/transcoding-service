@@ -1,6 +1,6 @@
 FROM node:6.9.2
 
-EXPOSE 9443
+EXPOSE 8443
 
 WORKDIR /transcoding-server
 
